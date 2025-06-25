@@ -33,7 +33,7 @@ export default function AnimatedNavbar() {
     { name: "About", section: "2" },
     { name: "Experience", section: "4" },
     { name: "Visit", section: "6" },
-    { name: "Reviews", section: "7" },
+    { name: "Contact", section: "8" },
   ]
 
   return (
